@@ -1,4 +1,4 @@
-# ClassicModels_SQL_Exercises
+# ClassicModels_SQL_Exercises 
 # SQL Practice Repository using ClassicModels Database
 
 ## 📌 Project Overview
